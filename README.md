@@ -10,4 +10,7 @@ To download the newest but not completely stable version, go to the site: https:
 
 ### NOTED IS A WIP APP AND NOT ALL THE FEATURES WILL WORK RIGHT AWAY. I WILL UPDATE THE LINK EVERY TIME I COMPLETE A VERSION. I TRIED UPLOADING HERE BUT I JUST GET A LARGE FILE SIZE ERROR.
 
-/table
+| Release      | Type      | Release    |
+|--------------|-----------|------------|
+| v0.0.3.2     | Demo      | 4/13/2023  |
+| v0.0.3.3     | Stable/WIP| WIP        |
