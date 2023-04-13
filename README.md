@@ -14,3 +14,10 @@ To download the newest but not completely stable version, go to the site: https:
 |--------------|-----------|------------|
 | v0.0.3.2     | Demo      | 4/13/2023  |
 | v0.0.3.3     | Stable/WIP| WIP        |
+
+```markdown
+Most Used Note Taker:
+- [x] Noted!
+- [ ] Google Keep
+- [ ] Sticky Notes
+```
