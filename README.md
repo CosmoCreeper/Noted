@@ -21,3 +21,8 @@ Most Used Note Taker:
 - [ ] Google Keep
 - [ ] Sticky Notes
 ```
+
+## Most Used Note Taker:
+- [x] Noted!
+- [ ] Google Keep
+- [ ] Sticky Notes
