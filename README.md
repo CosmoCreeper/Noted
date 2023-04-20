@@ -26,3 +26,8 @@ Most Used Note Taker:
 - [x] Noted!
 - [ ] Google Keep
 - [ ] Sticky Notes
+
+# New
+- Added Sounds On Check
+- (WIP)
+- (WIP)
