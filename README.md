@@ -6,28 +6,17 @@ A WIP task management app built for epic noting far beyond the transparency and 
 - [ ] Is sticky notes good?
 - [x] Creating tasks since 2023.
 
-To download the newest but not completely stable version, go to the site: https://noted-kcf.w3spaces.com/. Just simply download it from there and follow the steps in the txt after extracting, pretty straightforward. This will install the app. The above link is the official website that I designed. Not the most modern but it's something.
+To download the newest version, go to the site: https://noted-kcf.w3spaces.com/. Just simply download it from there and follow the steps in the txt after extracting, pretty straightforward. This will install the app. The above link is the official website that I designed. Not the most modern but it's something.
 
 ### NOTED IS A WIP APP AND NOT ALL THE FEATURES WILL WORK RIGHT AWAY. I WILL UPDATE THE LINK EVERY TIME I COMPLETE A VERSION. I TRIED UPLOADING HERE BUT I JUST GET A LARGE FILE SIZE ERROR.
 
 | Version      | Type      | Release    |
 |--------------|-----------|------------|
 | v0.0.3.2     | Demo      | 4/13/2023  |
-| v0.0.3.3     | Stable/WIP| WIP        |
+| v0.0.3.3     | Demo      | 4/22/2023  |
+| v0.0.3.4     | Stable    | 4/24/2023  |
 
-```markdown
-Most Used Note Taker:
+## Most Simplistic Note Taker:
 - [x] Noted!
 - [ ] Google Keep
 - [ ] Sticky Notes
-```
-
-## Most Used Note Taker:
-- [x] Noted!
-- [ ] Google Keep
-- [ ] Sticky Notes
-
-# New
-- Added Sounds On Check
-- (WIP)
-- (WIP)
