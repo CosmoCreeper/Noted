@@ -13,11 +13,7 @@ To download the newest version, go to the site: https://noted-kcf.w3spaces.com/.
 
 | Version      | Type      | Release    |
 |--------------|-----------|------------|
-| v0.0.3.2     | Demo      | 4/13/2023  |
-| v0.0.3.3     | Demo      | 4/22/2023  |
-| v0.0.3.4     | Stable    | 4/24/2023  |
-
-## Most Simplistic Note Taker:
-- [x] Noted!
-- [ ] Google Keep
-- [ ] Sticky Notes
+| v0.3.2       | Demo      | 4/13/2023
+| v0.3.3       | Demo      | 4/22/2023  |
+| v0.3.4       | Stable    | 4/24/2023  |
+| v1.0.0       | Stable    | 4/27/2023  |
