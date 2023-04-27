@@ -9,7 +9,7 @@ A WIP task management app built for epic noting far beyond the transparency and 
 To download the newest version, go to the site: https://noted-kcf.w3spaces.com/. Just simply download it from there and follow the steps in the txt after extracting, pretty straightforward. This will install the app. The above link is the official website that I designed. Not the most modern but it's something.
 
 > **Note**
-> Noted is a new program is not fully completed. Visit my [profile page](https://github.com/CosmoCreeper) to see my progress on the app. Not all features will work right away like the plus button which will be added later on.
+> Noted is a new program is not fully completed. Visit my [profile page](https://github.com/CosmoCreeper) to see my progress on the app. Not all features will work right away.
 
 | Version      | Type      | Release    |
 |--------------|-----------|------------|
