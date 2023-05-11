@@ -1,4 +1,20 @@
-<!doctype html>
-<html>
-  asd
+<html id="docu">
+  <head>
+    <!-- Title of page -->
+    <title>Noted!</title>
+    <!-- Custom styling -->
+    <link rel="stylesheet" href="./styles.css" />
+    <!-- Size styling -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  </head>
+  <body id="body">
+    <header id="header" draggable>
+      <button id="color-btn" onclick="changeColor()"></button>
+      <div id="day">UNDEFINED</div>
+      <button id="close-btn" onclick="quitApp()">&#x2715</button>
+    </header>
+    <div class="resizer light-greenR" ondblclick="resize()" id="resizer"></div>
+    <!-- Link to js file. -->
+    <script src="./script.js"></script>
+  </body>
 </html>
